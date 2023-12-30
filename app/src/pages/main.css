@@ -1,0 +1,125 @@
+.add-school-container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  
+  .add-school-heading {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .add-school-form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .add-school-label {
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  
+  .add-school-input {
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .add-school-button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .add-school-link {
+    margin-top: 20px;
+  }
+  
+  .add-school-link a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .add-school-link a:hover {
+    text-decoration: underline;
+  }
+  
+
+
+
+
+
+
+
+  .school-container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+  }
+  
+  h2 {
+    font-size: 28px;
+    color: #333;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .school-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .school-item {
+    margin-bottom: 30px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .school-item:hover {
+    transform: translateY(-5px);
+  }
+  
+  .school-label {
+    font-weight: bold;
+    color: #555;
+  }
+  
+  .school-image {
+    max-width: 100%;
+    height: auto;
+    margin-top: 15px;
+    border-radius: 8px;
+  }
+  
+  .link-text {
+    margin-top: 30px;
+    text-align: center;
+  }
+  
+  .link-text a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  .link-text a:hover {
+    color: #0056b3;
+  }
+  
